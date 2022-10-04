@@ -1,0 +1,21 @@
+body{
+    border: 1px solid black;
+    width: 550px;
+    padding: 10px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+#linea{
+    color: #375e97;
+}
+h1{
+  color: #375e97;  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-bottom: solid 1px #375e97;
+}
+h3{
+    color: #999999;
+}
+span{
+color: #fb6542;
+}
